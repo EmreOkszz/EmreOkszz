@@ -107,7 +107,7 @@ A guessing-game platform built around interactive visual and knowledge-based gam
 
 ## 💼 What I Build
 
-```text
+```text id="0d0npx"
 ┌──────────────────────────────────────────┐
 │                                          │
 │  🌐 Websites & Web Applications          │
@@ -123,13 +123,11 @@ A guessing-game platform built around interactive visual and knowledge-based gam
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EmreOkszz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmreOkszz&layout=compact&theme=tokyonight&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EmreOkszz&theme=tokyo-night&hide_border=true&area=true">
 
 </div>
 
