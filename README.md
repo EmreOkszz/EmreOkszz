@@ -112,7 +112,7 @@ A guessing-game platform built around interactive visual and knowledge-based gam
 │                                          │
 │  🌐 Websites & Web Applications          │
 │  💻 Custom Software                      │
-│  ⚙️ Admin Panels                          │
+│  ⚙️ Admin Panels                         │
 │  📱 Mobile Applications                  │
 │  🔎 SEO & Digital Growth                 │
 │  🎨 UI / Graphic Design                  │
@@ -145,6 +145,20 @@ A guessing-game platform built around interactive visual and knowledge-based gam
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmreOkszz/EmreOkszz/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmreOkszz/EmreOkszz/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/EmreOkszz/EmreOkszz/output/github-snake.svg">
+</picture>
+
+</div>
+
+---
+
 ## 🌐 Websites
 
 <div align="center">
@@ -167,13 +181,8 @@ A guessing-game platform built around interactive visual and knowledge-based gam
 
 Thanks for visiting my profile.
 
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=EmreOkszz&style=flat-square&color=7C5CFF">
 
 </div>
-## 🐍 GitHub Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmreOkszz/EmreOkszz/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmreOkszz/EmreOkszz/output/github-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/EmreOkszz/EmreOkszz/output/github-snake.svg">
-</picture>
