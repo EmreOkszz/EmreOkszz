@@ -1,141 +1,161 @@
 <div align="center">
 
-# 👋 Hey, I'm Emre
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0C,50:7C5CFF,100:0B0B0C&height=220&section=header&text=Emre%20Oksuz&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20Software%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### 💻 Web Developer · Software Developer · Digital Solutions
-
-I build modern websites, web applications and digital products.
+<br>
 
 <a href="https://github.com/EmreOkszz">
 <img src="https://img.shields.io/badge/GitHub-EmreOkszz-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://lexseom.com">
-<img src="https://img.shields.io/badge/Lexseom-Digital%20Solutions-7C5CFF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Lexseom-7C5CFF?style=for-the-badge">
 </a>
 <a href="https://www.xn--faldnyas-95a84c.com/">
-<img src="https://img.shields.io/badge/Fal%20Dünyası-Project-8B5CF6?style=for-the-badge">
+<img src="https://img.shields.io/badge/Fal%20Dünyası-8B5CF6?style=for-the-badge">
 </a>
 
-</div>
+<br><br>
 
----
-
-## 🚀 About Me
-
-I'm a developer focused on building modern, user-friendly and scalable digital experiences.
-
-I work across web development, custom software, SEO and digital solutions — from idea to deployment.
-
-* 🌐 Building modern web applications
-* 💻 Developing custom software solutions
-* 🎨 Creating responsive and user-focused interfaces
-* 🚀 Deploying and maintaining production websites
-* 🔎 Working with SEO and digital growth
-* 🧠 Exploring new technologies and ideas
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,supabase,git,github,vercel,vscode" />
+<img src="https://komarev.com/ghpvc/?username=EmreOkszz&style=for-the-badge&color=7C5CFF&label=PROFILE+VIEWS">
 
 </div>
 
 ---
 
-## ⭐ Featured Projects
+## 👨‍💻 About Me
 
-### 🔮 [Fal Dünyası](https://www.xn--faldnyas-95a84c.com/)
+```text
+I'm Emre — a developer focused on building modern digital products.
 
-An online symbolic interpretation platform bringing different fortune and self-discovery experiences together in one place.
+I enjoy turning ideas into clean, functional and scalable experiences.
 
-**Features**
+→ Web Development
+→ Custom Software
+→ UI / UX
+→ SEO & Digital Solutions
+→ Deployment & Hosting
+```
 
-* 🃏 Tarot
-* ☕ Coffee Fortune
-* ✨ Yıldızname
-* ♈ Astrology
-* ᚱ Rune
-* ❤️ Katina
-* 💧 Water Fortune
-* ✋ Palm Reading
-* 🂠 Playing Card Fortune
-* 🔢 Numerology
-
-Built with a focus on a clean, modern and mobile-friendly user experience.
+I build projects from **idea → design → development → deployment** with a focus on simplicity, performance and user experience.
 
 ---
 
-### 💼 [Lexseom](https://lexseom.com)
+## ⚡ Tech Stack
 
-A digital solutions platform focused on helping businesses build and grow their online presence.
+### Frontend
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+
+</div>
+
+### Backend & Database
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,supabase" />
+
+</div>
+
+### Tools & Platforms
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔮 Fal Dünyası
+
+An online symbolic interpretation platform combining multiple fortune and self-discovery experiences.
+
+**Includes**
+
+🃏 Tarot · ☕ Coffee Fortune · ✨ Yıldızname
+♈ Astrology · ᚱ Rune · ❤️ Katina
+💧 Water Fortune · ✋ Palm Reading
+🂠 Playing Cards · 🔢 Numerology
+
+<a href="https://www.xn--faldnyas-95a84c.com/">
+<img src="https://img.shields.io/badge/Visit%20Project-8B5CF6?style=for-the-badge">
+</a>
+
+</td>
+
+<td width="50%">
+
+### 💼 Lexseom
+
+A digital solutions platform focused on helping businesses establish and grow their online presence.
 
 **Services**
 
-* 🌐 Web Design & Development
-* 💻 Custom Software
-* 📱 Mobile Applications
-* ⚙️ Admin Panel Development
-* 🔎 SEO
-* 🔗 Backlink Services
-* 📢 Digital Advertising
-* 📱 Social Media
-* 🛍️ Etsy Solutions
-* 🎨 Graphic & Brand Design
+🌐 Web Development · 💻 Custom Software
+📱 Mobile Apps · ⚙️ Admin Panels
+🔎 SEO · 🔗 Backlinks
+📢 Digital Advertising · 🎨 Branding
 
----
+<a href="https://lexseom.com">
+<img src="https://img.shields.io/badge/Visit%20Project-7C5CFF?style=for-the-badge">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🎮 Gamely
 
-A guessing-game platform built around interactive visual and knowledge-based games.
+An interactive guessing-game platform built around visual and knowledge-based challenges.
 
-**Concepts**
+**Games**
 
-* 🌍 GeoGuess
-* 🏳️ Flag Guess
-* 🖼️ Pixel Reveal
-* 🧩 Piece Reveal
-* 💰 Price Guess
-* 😀 Emoji Guess
-* 🎨 Color Code
+🌍 GeoGuess · 🏳️ Flag Guess
+🖼️ Pixel Reveal · 🧩 Piece Reveal
+💰 Price Guess · 😀 Emoji Guess
+🎨 Color Code
 
-**Stack:** Next.js · TypeScript · Tailwind CSS · Framer Motion
+**Next.js · TypeScript · Tailwind · Framer Motion**
 
----
+</td>
 
-## 💼 What I Build
+<td width="50%">
 
-```text id="0d0npx"
-┌──────────────────────────────────────────┐
-│                                          │
-│  🌐 Websites & Web Applications          │
-│  💻 Custom Software                      │
-│  ⚙️ Admin Panels                         │
-│  📱 Mobile Applications                  │
-│  🔎 SEO & Digital Growth                 │
-│  🎨 UI / Graphic Design                  │
-│  🚀 Deployment & Hosting                 │
-│                                          │
-└──────────────────────────────────────────┘
+### 🧠 What I Build
+
+```text
+🌐 Web Applications
+💻 Custom Software
+⚙️ Admin Panels
+📱 Mobile Applications
+🔎 SEO Solutions
+🎨 UI / Graphic Design
+🚀 Deployment & Hosting
 ```
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EmreOkszz&theme=tokyo-night&hide_border=true&area=true">
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔥 Contribution Streak
+## 📈 GitHub
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EmreOkszz&theme=tokyo-night&hide_border=true&area=true" width="100%">
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=EmreOkszz&theme=tokyonight&hide_border=true">
 
@@ -150,14 +170,14 @@ A guessing-game platform built around interactive visual and knowledge-based gam
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EmreOkszz/EmreOkszz/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EmreOkszz/EmreOkszz/output/github-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/EmreOkszz/EmreOkszz/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/EmreOkszz/EmreOkszz/output/github-snake.svg" width="100%">
 </picture>
 
 </div>
 
 ---
 
-## 🌐 Websites
+## 🌐 Digital Products
 
 <div align="center">
 
@@ -165,8 +185,10 @@ A guessing-game platform built around interactive visual and knowledge-based gam
 <img src="https://img.shields.io/badge/LEXSEOM-Digital%20Solutions-7C5CFF?style=for-the-badge">
 </a>
 
+ 
+
 <a href="https://www.xn--faldnyas-95a84c.com/">
-<img src="https://img.shields.io/badge/FAL%20DÜNYASI-Online%20Experience-8B5CF6?style=for-the-badge">
+<img src="https://img.shields.io/badge/FAL%20DÜNYASI-Digital%20Experience-8B5CF6?style=for-the-badge">
 </a>
 
 </div>
@@ -177,10 +199,10 @@ A guessing-game platform built around interactive visual and knowledge-based gam
 
 ### 💜 Build. Create. Improve.
 
-Thanks for visiting my profile.
+**Thanks for visiting my profile.**
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=EmreOkszz&style=flat-square&color=7C5CFF">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0C,50:7C5CFF,100:0B0B0C&height=100&section=footer" width="100%"/>
 
 </div>
